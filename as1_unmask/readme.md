@@ -1,4 +1,5 @@
-#Assignment 1: Unmask
+Assignment 1: Unmask
+
 This folder contains the following:
 - .ino files
 - fritzing diagram
